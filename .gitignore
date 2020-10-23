@@ -3,5 +3,5 @@
 
 # production
 
-# misc
-/.env
+# Ignore sensitive data in the .env file
+.env
